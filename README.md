@@ -8,7 +8,7 @@
 
 ## 💡 Purpose
 
-*This proeject aims to cluster data on the basis of acquired attributes and determine the appropriate characteristics for the offers made to each customer segment.*
+*This project aims to cluster data on the basis of acquired attributes and determine the appropriate characteristics for the offers made to each customer segment.*
 
 ## 🔗 Relevant Links
 
